@@ -3,4 +3,11 @@ body{
     margin:auto;
     border:2px solid black;
 }
+*{
+    color:black;
+}
+footer{
+     margin:50px;
+     padding:50px;
 
+}
